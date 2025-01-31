@@ -3,3 +3,4 @@
 <h2>Nice to meet you🎇, my name is Guilherme and I want to become a front-end programmer💘.
 I'm attending high school at a good school✏️ and front-end developer technical course 🕮</h2>
 <a href="https://www.linkedin.com/in/gui-fittipaldi-098aa5285/">Visite</a>
+<a href="https://mail.google.com/mail/mu/mp/122/#tl/priority/%5Esmartlabel_personal">gmail<a/>
