@@ -10,6 +10,6 @@ I'm attending high school at a good school✏️ and front-end developer technic
         <a href="mailto:guilerme.fittipaldi10@gmail.com"><img src="https://github.com/guifittipaldi-afk/guifittipaldi-afk/blob/main/gmail%20imge.png" width="40" heigth "40"<a/>
             <h1 id='sample'> </p>
             
-            </body>
+     
 
 </html>
